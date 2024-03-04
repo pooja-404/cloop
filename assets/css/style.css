@@ -152,6 +152,9 @@
     display: none;
     background-color: var(--blue);
 }
+.f-layer{
+    bottom: -1px;
+}
 
 /* acccordian */
 .accordion-button {
@@ -200,7 +203,6 @@
 
 }
 
-
 .accordion-item:first-of-type>.accordion-header .accordion-button {
     border-top-left-radius: 0 !important;
     border-top-right-radius: 0 !important;
@@ -211,6 +213,9 @@
 .accordion {
     --bs-accordion-border-width: 0 !important;
     --bs-accordion-border-radius: 0 !important;
+}
+.accordion-button:not(.collapsed) {
+     box-shadow: none !important; 
 }
 
 /* preloder */

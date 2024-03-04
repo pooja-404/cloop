@@ -168,43 +168,5 @@
         line-height: 100px;
     }
 
-    /* max-width */
-    .max-w-448 {
-        max-width: 448px;
-    }
-
-    .max-w-676 {
-        max-width: 676px;
-    }
-
-    .max-w-345 {
-        max-width: 345px;
-    }
-
-    .max-w-471 {
-        max-width: 471px;
-    }
-
-    .max-w-497 {
-        max-width: 497px;
-    }
-
-    .max-w-758 {
-        max-width: 758px;
-    }
-
-    .max-w-402 {
-        max-width: 402px;
-    }
-
-    .max-w-513 {
-        max-width: 513px;
-    }
-
-    .translate-x-lg-32 {
-        transform: translateX(3rem);
-    }
-
-
 
 }
