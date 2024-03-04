@@ -123,29 +123,6 @@
 
 @media (min-width:992px) {
 
-    .h-lg-452 {
-        height: 452px;
-    }
-
-    .h-lg-546 {
-        height: 546px;
-    }
-
-    .h-lg-465 {
-        height: 465px;
-    }
-
-    .w-lg-530 {
-        width: 530px !important;
-    }
-
-    .w-lg-509 {
-        width: 509px;
-    }
-
-    .w-lg-357 {
-        width: 357px;
-    }
 
     /* paddding */
     .padding-top-bottom {
@@ -153,6 +130,7 @@
         padding-bottom: 150px !important;
     }
 
+    
     /* line-height */
     .lh-15 {
         line-height: 15px;
@@ -222,4 +200,11 @@
     .max-w-513 {
         max-width: 513px;
     }
+
+    .translate-x-lg-32 {
+        transform: translateX(3rem);
+    }
+
+
+
 }
