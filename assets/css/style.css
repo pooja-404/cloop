@@ -72,6 +72,7 @@
 .w-90 {
     width: 90%;
 }
+
 .pb-60 {
     padding-bottom: 60px !important;
 }
@@ -152,9 +153,7 @@
     display: none;
     background-color: var(--blue);
 }
-.f-layer{
-    bottom: -1px;
-}
+
 
 /* acccordian */
 .accordion-button {
@@ -214,8 +213,9 @@
     --bs-accordion-border-width: 0 !important;
     --bs-accordion-border-radius: 0 !important;
 }
+
 .accordion-button:not(.collapsed) {
-     box-shadow: none !important; 
+    box-shadow: none !important;
 }
 
 /* preloder */
@@ -233,7 +233,7 @@
 }
 
 .pointer_event_none {
-    pointer-events: none;
+    pointer-events: none !important;
 }
 
 .z_5 {
@@ -242,6 +242,10 @@
 
 .overflow-hidden {
     overflow: hidden !important;
+}
+
+.d-none {
+    display: none !important;
 }
 
 @keyframes l2 {
@@ -315,6 +319,10 @@ nav {
 .icon:hover {
     transform: translateY(-25%);
     filter: drop-shadow(0 0 0.25rem white);
+}
+
+.overflow-hidden {
+    overflow: hidden !important;
 }
 
 @media (min-width: 567px) {

@@ -130,7 +130,7 @@
         padding-bottom: 150px !important;
     }
 
-    
+
     /* line-height */
     .lh-15 {
         line-height: 15px;
@@ -166,6 +166,10 @@
 
     .lh-100 {
         line-height: 100px;
+    }
+
+    .f-layer {
+        bottom: -3px !important;
     }
 
 
