@@ -26,7 +26,7 @@
 
 .email-box {
     max-width: 503px;
-    /* height: 54px; */
+    height: 54px;
     padding: 0px 0px 0px 20px;
     border-radius: 10px;
     border: 1px solid var(--gray);
