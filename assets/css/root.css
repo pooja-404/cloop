@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Over+the+Rainbow&display=swap');
+
+:root {
+    /* font-size */
+    --fs-xs: 14px;
+    --fs-s: 15px;
+    --fs-sm: 22px;
+    --fs-md: 28px;
+    --fs-lg: 45px;
+    --fs-xl: 60px;
+    --fs-xxl: 62px;
+    /* color */
+    --off-white: #cfe5f0;
+    --blue: #0073b1;
+    --off-blue: #0576b3;
+    --light-black: #0d0d0d;
+    --orange: #f8b762;
+    --off-black: #3d3d3d;
+    --gray: #c4c4c4;
+    --light-gray: #cfcfcf;
+    --mid-gray: #cfcfcf;
+    --dark-gray: #9e9e9e;
+    --darkblue: #15231F;
+    --mid-white: #e5e1f7;
+    --off-gray: #c5c5c5;
+
+    /* font-family  */
+    --ff-Outfit: 'Outfit', Sans-serif;
+    --ff-Rainbow: 'Over the Rainbow', Sans-serif;
+}
+
+
+.font-Outfit {
+    font-family: var(--ff-Outfit);
+}
+
+.font-Rainbow {
+    font-family: var(--ff-Rainbow);
+}
+
+/* font-size */
+.fs-xs {
+    font-size: var(--fs-xs);
+}
+
+.fs-s {
+    font-size: var(--fs-s);
+}
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+.fs-xxl {
+    font-size: var(--fs-xxl);
+}
+
+/* color */
+.off-white {
+    color: var(--off-white);
+}
+
+.mid-white {
+    color: var(--mid-white);
+}
+
+.bg-blue {
+    background-color: var(--blue);
+}
+
+
+.light-black {
+    color: var(--light-black);
+}
+
+.bg-light-black {
+    background-color: var(--light-black);
+}
+
+.orange {
+    color: var(--orange);
+}
+
+.gray {
+    color: var(--gray);
+}
+
+.light-gray {
+    color: var(--light-gray) !important;
+}
+
+.off-blue {
+    background-color: var(--off-black);
+}
+
+.bg-darkblue {
+    background: var(--darkblue);
+}
+
+.mid-gray {
+    color: var(--mid-gray);
+}
+
+.dark-gray {
+    color: var(--dark-gray)
+}
+
+.text-blue {
+    color: var(--blue);
+}
+
+@media (min-width:992px) {
+
+    .h-lg-452 {
+        height: 452px;
+    }
+
+    .h-lg-546 {
+        height: 546px;
+    }
+
+    .h-lg-465 {
+        height: 465px;
+    }
+
+    .w-lg-530 {
+        width: 530px !important;
+    }
+
+    .w-lg-509 {
+        width: 509px;
+    }
+
+    .w-lg-357 {
+        width: 357px;
+    }
+
+    /* paddding */
+    .padding-top-bottom {
+        padding-top: 150px !important;
+        padding-bottom: 150px !important;
+    }
+
+    /* line-height */
+    .lh-15 {
+        line-height: 15px;
+    }
+
+    .lh-17 {
+        line-height: 17px;
+    }
+
+    .lh-24 {
+        line-height: 24px;
+    }
+
+    .lh-30 {
+        line-height: 30px;
+    }
+
+    .lh-31 {
+        line-height: 31px;
+    }
+
+    .lh-35 {
+        line-height: 35px;
+    }
+
+    .lh-62 {
+        line-height: 62px;
+    }
+
+    .lh-83 {
+        line-height: 83px;
+    }
+
+    .lh-100 {
+        line-height: 100px;
+    }
+
+    /* max-width */
+    .max-w-448 {
+        max-width: 448px;
+    }
+
+    .max-w-676 {
+        max-width: 676px;
+    }
+
+    .max-w-345 {
+        max-width: 345px;
+    }
+
+    .max-w-471 {
+        max-width: 471px;
+    }
+
+    .max-w-497 {
+        max-width: 497px;
+    }
+
+    .max-w-758 {
+        max-width: 758px;
+    }
+
+    .max-w-402 {
+        max-width: 402px;
+    }
+
+    .max-w-513 {
+        max-width: 513px;
+    }
+}
