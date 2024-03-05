@@ -6,7 +6,7 @@
     --fs-s: 15px;
     --fs-sm: 22px;
     --fs-md: 28px;
-    --fs-lg: 45px;
+    --fs-lg: 42px;
     --fs-xl: 60px;
     --fs-xxl: 62px;
     /* color */
@@ -170,6 +170,10 @@
 
     .f-layer {
         bottom: -3px !important;
+    }
+
+    .max-w-513 {
+        max-width: 513px;
     }
 
 
