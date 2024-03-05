@@ -229,6 +229,15 @@
     z-index: 5;
 }
 
+.btn-linkss {
+    width: 180px !important;
+    transition: 500ms linear;
+}
+
+.btn-linkss:hover {
+    scale: 1.1;
+}
+
 
 
 .d-none {
