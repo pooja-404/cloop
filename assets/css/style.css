@@ -229,12 +229,15 @@
     z-index: 5;
 }
 
-.overflow_hidden {
-    overflow: hidden !important;
-}
+
 
 .d-none {
     display: none !important;
+}
+
+.btn-link {
+    width: 180px !important;
+    height: 54px !important;
 }
 
 @keyframes l2 {
