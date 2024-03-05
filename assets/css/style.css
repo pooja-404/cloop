@@ -311,6 +311,30 @@ nav {
     overflow: hidden !important;
 }
 
+.h-lg-452 {
+    height: 452px;
+}
+
+.h-lg-546 {
+    height: 546px;
+}
+
+.h-lg-465 {
+    height: 465px;
+}
+
+.w-lg-530 {
+    width: 530px !important;
+}
+
+.w-lg-509 {
+    width: 509px;
+}
+
+.w-lg-357 {
+    width: 357px;
+}
+
 @media (min-width: 567px) {
     :root {
         /* font-size */
@@ -377,44 +401,15 @@ nav {
         text-align: center;
     }
 
-
-}
-
-.h-lg-452 {
-    height: 452px;
-}
-
-.h-lg-546 {
-    height: 546px;
-}
-
-.h-lg-465 {
-    height: 465px;
-}
-
-.w-lg-530 {
-    width: 530px !important;
-}
-
-.w-lg-509 {
-    width: 509px;
-}
-
-.w-lg-357 {
-    width: 357px;
-}
-
-
-@media (min-width: 768px) {
-    .max-w-530 {
-        max-width: 530px !important;
-    }
-
     .max-w-593 {
         max-width: 593px !important;
     }
 
+    .max-w-530 {
+        max-width: 530px !important;
+    }
 }
+
 
 @media (min-width: 1300px)and(min-width: 1600px) {
     .container {
