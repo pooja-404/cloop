@@ -7,7 +7,7 @@
     text-decoration: none !important;
     box-sizing: border-box;
     scroll-behavior: smooth !important;
-    /* outline: 1px solid red; */
+
 }
 
 .custom-container {
@@ -90,12 +90,6 @@
     bottom: 35%;
     left: -24%;
 }
-
-/* 
-.recycle-ellipse {
-    bottom: -12%;
-    right: -20%;
-} */
 
 .accordian-ellipse {
     top: -3%
@@ -240,7 +234,7 @@
     z-index: 5;
 }
 
-.overflow-hidden {
+.overflow_hidden {
     overflow: hidden !important;
 }
 
@@ -309,9 +303,6 @@ nav {
 
 }
 
-/* .min-vh-97 {
-    min-height: 95vh;
-} */
 .icon {
     transition: 500ms linear;
 }
