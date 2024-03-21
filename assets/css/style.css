@@ -83,7 +83,7 @@
 
 .arrow {
     bottom: 35%;
-    left: -24%;
+    left: -28%;
 }
 
 .accordian-ellipse {
@@ -245,6 +245,10 @@
 .btn-link {
     width: 180px !important;
     height: 54px !important;
+}
+
+.w_508 {
+    max-width: 508px;
 }
 
 @keyframes l2 {
@@ -418,9 +422,14 @@ nav {
     .max-w-530 {
         max-width: 530px !important;
     }
+
+    .w_100 {
+        width: 100%;
+
+    }
 }
 
-@media (min-width: 1300px)and(min-width: 1600px) {
+@media (min-width: 1400px) and (max-width: 1600px) {
     .container {
         max-width: 1140px !important;
     }
