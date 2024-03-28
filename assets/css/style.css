@@ -49,6 +49,10 @@
     overflow-x: clip;
 }
 
+.max-w-146 {
+    max-width: 146px;
+}
+
 /* btn/ */
 .join-btn {
     padding: 13px 32px 18px 32px !important;
