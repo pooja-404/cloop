@@ -82,7 +82,7 @@
 }
 
 .arrow {
-    bottom: 35%;
+    bottom: 37%;
     left: -28%;
 }
 
@@ -151,8 +151,8 @@
     top: -1%;
 }
 
-.mb_45 {
-    margin-bottom: -45px;
+.mb_105 {
+    margin-bottom: -105px;
 }
 
 .top-btn {
@@ -271,9 +271,6 @@
     height: 54px !important;
 }
 
-.w_508 {
-    max-width: 508px;
-}
 
 @keyframes l2 {
     to {
@@ -386,7 +383,8 @@ nav {
     }
 
 }
-.max-w-img{
+
+.max-w-img {
     max-width: 530px;
 }
 
@@ -442,12 +440,9 @@ nav {
         text-align: center;
     }
 
-    .max-w-593 {
-        max-width: 593px !important;
-    }
 
     .max-w-img {
-        max-width: 300px !important;
+        max-width: 370px !important;
     }
 
     .w_100 {

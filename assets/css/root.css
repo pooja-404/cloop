@@ -176,4 +176,8 @@
         transform: translateX(44px);
     }
 
+    .w-593 {
+        width: 593px !important;
+    }
+
 }
